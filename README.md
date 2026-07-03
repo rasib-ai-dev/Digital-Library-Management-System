@@ -55,7 +55,7 @@ Make sure Python 3.x is installed on your system before running the project.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Digital-Library-Management-System.git
+git clone https://github.com/rasib-ai-dev/Digital-Library-Management-System.git
 ```
 
 ### 2. Open the project folder
