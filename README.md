@@ -1,76 +1,85 @@
 # 📚 Digital Library Management System
 
-A Digital Library Management System developed using **Python**, **Object-Oriented Programming (OOP)**, and **Streamlit**. The application provides an interactive interface for managing library operations such as adding books, searching books, borrowing, returning, and viewing library records.
+A simple and interactive **Digital Library Management System** built using **Python**, **Object-Oriented Programming (OOP)**, and **Streamlit**. This application allows users to manage library operations such as adding books, searching books, borrowing books, returning books, and viewing library records through an intuitive web interface.
 
 ---
 
-## 🚀 Features
+## 📖 Project Overview
 
-- Add new books to the library
-- Search books by title
-- Search books by author
-- Borrow available books
-- Return borrowed books
-- View all available books
-- View borrowed books
-- User-friendly Streamlit interface
+The **Digital Library Management System** is a beginner-friendly project developed to demonstrate the practical implementation of **Object-Oriented Programming (OOP)** concepts using Python.
+
+The application utilizes classes, objects, encapsulation, dictionaries, and Streamlit's session state to simulate a digital library system without relying on a database. It provides an interactive interface for performing common library management tasks efficiently.
 
 ---
 
-## 🎯 Project Objectives
+## ✨ Features
 
-- Apply Object-Oriented Programming (OOP) concepts.
-- Build an interactive library management application.
-- Practice Streamlit for creating web-based Python applications.
-- Manage books and borrowing records efficiently.
+* ➕ Add new books to the library
+* 🔍 Search books by title
+* 👤 Search books by author
+* 📚 Borrow available books
+* 🔄 Return borrowed books
+* 📋 View all books in the library
+* 📖 View borrowed books
+* 🖥️ Interactive Streamlit-based user interface
+* 🧩 Implementation of Object-Oriented Programming (OOP)
+
+---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Streamlit
-- Object-Oriented Programming (OOP)
-- Git & GitHub
+* Python
+* Streamlit
+* Object-Oriented Programming (OOP)
+* Git
+* GitHub
 
 ---
 
 ## 📂 Project Structure
 
-```
-Digital-Library-Management-System/
+```text
+Digital-Library-Management-System
 │
 ├── digital_library.py
-├── README.md
-├── requirements.txt
-├── LICENSE
+├── Screenshots
+│   ├── Home_Page.png
+│   ├── Add_Book.png
+│   ├── Search_By_Title.png
+│   ├── Search_By_Author.png
+│   ├── Borrow_Book.png
+│   ├── Return_Book.png
+│   ├── View_All_Books.png
+│   └── View_Borrowed_Books.png
 ├── .gitignore
-└── screenshots/
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
 
-## ▶️ How to Run
+## 🚀 Installation
 
-Make sure Python 3.x is installed on your system before running the project.
-
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/rasib-ai-dev/Digital-Library-Management-System.git
 ```
 
-### 2. Open the project folder
+### 2. Navigate to the Project Directory
 
 ```bash
 cd Digital-Library-Management-System
 ```
 
-### 3. Install dependencies
+### 3. Install the Required Dependency
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the application
+### 4. Run the Application
 
 ```bash
 streamlit run digital_library.py
@@ -78,19 +87,69 @@ streamlit run digital_library.py
 
 ---
 
-## 📸 Screenshots
+## 📷 Application Screenshots
 
-Project screenshots are available inside the **screenshots** folder.
+### 🏠 Home Page
+
+![Home Page](Screenshots/Home_Page.png)
+
+---
+
+### ➕ Add Book
+
+![Add Book](Screenshots/Add_Book.png)
+
+---
+
+### 🔍 Search by Title
+
+![Search by Title](Screenshots/Search_By_Title.png)
+
+---
+
+### 👤 Search by Author
+
+![Search by Author](Screenshots/Search_By_Author.png)
+
+---
+
+### 📚 Borrow Book
+
+![Borrow Book](Screenshots/Borrow_Book.png)
+
+---
+
+### 🔄 Return Book
+
+![Return Book](Screenshots/Return_Book.png)
+
+---
+
+### 📋 View All Books
+
+![View All Books](Screenshots/View_All_Books.png)
+
+---
+
+### 📖 View Borrowed Books
+
+![View Borrowed Books](Screenshots/View_Borrowed_Books.png)
 
 ---
 
 ## 🚀 Future Improvements
 
-- Store data using a database (SQLite/MySQL).
-- Add user authentication.
-- Implement book categories.
-- Add due dates and fine calculation.
-- Improve UI design.
+* Store library data using a database (SQLite or MySQL)
+* Add user authentication
+* Implement book categories
+* Add due dates and fine calculation
+* Enhance the user interface
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the **LICENSE** file for more details.
 
 ---
 
@@ -98,4 +157,10 @@ Project screenshots are available inside the **screenshots** folder.
 
 **Muhammad Rasib**
 
-Python Developer | Machine Learning Enthusiast | Software Developer
+GitHub: **https://github.com/rasib-ai-dev**
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **Star ⭐** on GitHub.
