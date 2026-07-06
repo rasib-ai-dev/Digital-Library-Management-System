@@ -1,5 +1,15 @@
 # 📚 Digital Library Management System
 
+## 🌐 Live Demo
+
+🚀 **Try the Live Application:**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digital-library-management-system-mgmvbyjcnu48ouf5h4dapo.streamlit.app/)
+
+👉 **Live URL:** https://digital-library-management-system-mgmvbyjcnu48ouf5h4dapo.streamlit.app/
+
+---
+
 A simple and interactive **Digital Library Management System** built using **Python**, **Object-Oriented Programming (OOP)**, and **Streamlit**. This application allows users to manage library operations such as adding books, searching books, borrowing books, returning books, and viewing library records through an intuitive web interface.
 
 ---
